@@ -1,0 +1,13 @@
+{
+  "name": "ngd-discord-server-status",
+  "version": "1.0.0",
+  "description": "NextGenDominators Scepter NGD-19 Discord server status bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.48.0",
+    "discord.js": "^14.25.1"
+  }
+}
